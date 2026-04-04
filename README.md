@@ -7,7 +7,7 @@
 - 🎓 B.Tech Student
 - 💻 Currently learning **DSA + Web Development**
 - 🔥 Goal: Crack **Amazon / Top Tech Companies**
-- 📈 Solved 19+ problems on LeetCode (target 100+ 🚀)
+- 📈 Solved problems on LeetCode (target 500+ 🚀)
 
 ---
 
@@ -32,9 +32,15 @@
 
 ---
 
-### 🌐 Connect With Me
-- 💼 LinkedIn: (add your link)
-- 🧑‍💻 GitHub: https://github.com/YOUR_USERNAME
+- ### 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/rushan-khan-b2b70a327" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Rushankhan16" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
