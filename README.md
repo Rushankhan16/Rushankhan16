@@ -27,7 +27,7 @@
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Rushankhan16&theme=radical&v=1" />
 </p>
 
 ---
