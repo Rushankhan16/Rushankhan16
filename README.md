@@ -6,7 +6,7 @@
 ### 🌟 About Me
 - 🎓 B.Tech Student
 - 💻 Currently learning **DSA + Web Development**
-- 🔥 Goal: Crack **Amazon / Top Tech Companies**
+- 🔥 Goal: Crack **Top Tech Companies**
 - 📈 Solved problems on LeetCode (target 500+ 🚀)
 
 ---
