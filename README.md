@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi 👋, I'm Rushan Khan</h1>
 
-<h3 align="center">☕ Full Stack Developer • Software Engineer • DSA in CPP</h3>
+<h3 align="center">☕ Web Developer • Software Engineer • DSA in CPP</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Developer;backend+Learner;REST+API+Developer;DSA+in+CPP;Open+to+Internships;Always+Learning"/>
@@ -24,7 +24,7 @@
 - 🔥 Goal: Crack **Top Tech Companies**
 - 📈 Solved problems on LeetCode (target 500+ 🚀)
 
----
+
 
 ### 🛠️ Tech Stack
 <!-- <p align="left">
@@ -74,6 +74,13 @@ Tools
 </p>
 
 ---
+🏆 Achievements
+
+📘 Consistently learning Backend Development
+
+💡 Building projects to strengthen Software Engineering skills
+
+🚀 Preparing for Campus Placements
 
 ### 💡 Quote
 "Consistency beats talent 🚀"
