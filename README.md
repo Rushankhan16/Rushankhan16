@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Rushan Khan</h1>
-<h3 align="center">🚀 Aspiring Software Developer | DSA Learner</h3>
+<!-- <h1 align="center">Hi 👋, I'm Rushan Khan</h1>
+<h3 align="center">🚀 Aspiring Software Developer | DSA Learner</h3> -->
 
 ---
 <!-- ================= PREMIUM GITHUB PROFILE README ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,30&text=Sachin%20Bairwa&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Java%20Backend%20Developer%20|%20Software%20Engineer&descAlignY=68"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,30&text=Rushan%20Khan&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Software%20Engineer&descAlignY=68"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Rushan Khan</h1>
 
-<h3 align="center">☕ Full Stack Developer • Software Engineer • DSA in C++</h3>
+<h3 align="center">☕ Full Stack Developer • Software Engineer • DSA in CPP</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Developer;backend Learner;REST+API+Developer;DSA+in+CPP;Open+to+Internships;Always+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Developer;backend+Learner;REST+API+Developer;DSA+in+CPP;Open+to+Internships;Always+Learning"/>
 </p>
 
 
