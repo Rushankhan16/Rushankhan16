@@ -27,10 +27,26 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
+<!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,vscode" />
+</p> -->
+Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,mysql"/>
 </p>
 
+Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,postman"/>
+</p>
+
+Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
 ---
 
 ### 📊 GitHub Stats
